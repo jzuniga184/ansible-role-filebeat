@@ -1,6 +1,7 @@
 # Ansible Role: Filebeat for ELK Stack
 
 [![Build Status](https://travis-ci.org/geerlingguy/ansible-role-filebeat.svg?branch=master)](https://travis-ci.org/geerlingguy/ansible-role-filebeat)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjzuniga184%2Fansible-role-filebeat.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjzuniga184%2Fansible-role-filebeat?ref=badge_shield)
 
 An Ansible Role that installs [Filebeat](https://www.elastic.co/products/beats/filebeat) on RedHat/CentOS or Debian/Ubuntu.
 
@@ -79,6 +80,9 @@ None.
 ## License
 
 MIT / BSD
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjzuniga184%2Fansible-role-filebeat.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjzuniga184%2Fansible-role-filebeat?ref=badge_large)
 
 ## Author Information
 
